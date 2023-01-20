@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LatihanRoom</string>
+
+    <string name="hint_barang">Nama Barang </string>
+    <string name="hint_jumlah">Jumlah Beli </string>
+    <string name="hint_harga">Harga </string>
+    <string name="hint_bayar">Uang Bayar </string>
+    <string name="hint_produk">Nama Produk </string>
+    <string name="hint_stock">Stock </string>
+    <string name="simpan">Simpan</string>
+    <string name="title_produk">Tambah Produk</string>
+    <string name="ubah_produk">Ubah Produk</string>
+    <string name="hapus">Hapus</string>
+    <string name="produk_yang_tersedia">Produk yang Tersedia</string>
+    <string name="tambah_data">+ Tambah Data</string>
+    <string name="history_pesanan"> Riwayat Pesanan </string>
+    <string name="perbarui"> Product </string>
+    <string name="pemesanan"> Pemesanan </string>
+    <string name="title_menu"> SELAMAT DATANG DI APLIKASI KASIR </string>
+    <string name="diskon">Diskon</string>
+    <string name="kembalian">Kembalian</string>
+    <string name="total_belanja">Total Belanja</string>
+    <string name="proses">Proses</string>
+    <string name="title_pemesanan">Transaksi</string>
+    <string name="todo" />
+
+<!--kasir-->
+    <string name="profil_kasir">Profil Kasir</string>
+    <string name="tambah_kasir">Tambah Kasir</string>
+    <string name="ubah_kasir">Ubah Kasir</string>
+    <string name="hint_kasir">Nama Kasir</string>
+    <string name="hint_jns_kelamin">Jenis Kelamin</string>
+    <string name="hint_nohp">No HP</string>
+    <string name="hint_email">Email</string>
+
+
+
+</resources>
